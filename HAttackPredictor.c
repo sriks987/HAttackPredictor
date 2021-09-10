@@ -1,10 +1,5 @@
 /*To calculate the probability of heart disease using various parameters like test results and lifestyle.
-  
-  Project (SEMESTER 2)
-  
-  Done by: Srikumar Subramanian   01FB16ECS396 
-           Shubham Mathur         01FB16ECS379
-           Raj Subramanian        01FB16ECS424
+
 */
 
 #include <stdio.h>
